@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Order Summary Component solution
 
 This is a solution to the [Order Summary Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponentmain-V3Gq7UUkMj]
 - Live Site URL: [https://incihuseynli.github.io/order-summary-component-main/]
 
 ## My process
